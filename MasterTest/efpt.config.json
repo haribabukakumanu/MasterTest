@@ -1,0 +1,52 @@
+﻿{
+   "ContextClassName": "KodruContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": "Data",
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "MasterTest",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Attachments]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Business]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ConvergeData]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DFSAuthorization]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Expenses]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MasterLink]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Provider]",
+         "ObjectType": 0
+      }
+   ],
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseNodaTime": false,
+   "UseSpatial": false
+}
